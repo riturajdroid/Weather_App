@@ -9,8 +9,9 @@ A simple Flutter app that shows real-time weather data for any city using the Op
 - Handles loading, error, and success states
 
 ## Screenshots
-
-> Add your screenshots here
+| Search Screen | Weather Screen |
+|---------------|----------------|
+| ![Search](assets/screenshots/search.png) | ![Weather](assets/screenshots/weather.png) |
 
 ## Getting Started
 
