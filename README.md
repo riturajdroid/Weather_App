@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-A simple Flutter app that shows real-time weather data for any city using the OpenWeatherMap API.
+A simple Flutter app that shows real-time weather data for any city using the OpenWeatherMap API. This is not very fancy UI weather app , I made this just as my first project in flutter.
 
 ## Features
 
